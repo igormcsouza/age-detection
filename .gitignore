@@ -137,4 +137,7 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
-# Projects Ignores
+### Some projects Ignores ###
+
+data/exemples/
+data/some-results/
